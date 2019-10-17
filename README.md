@@ -10,4 +10,6 @@ The prototype lets the user select event log attributes for some or all of the d
 
 After a set of meaningful event log attributes has been selected from the data, the generation and extraction of the event log in XES format with respect to the selected attributes can be started.
 
+Video explaining the RDB2Log approach: https://www.youtube.com/watch?v=ccwEY5QiHtw
+
 Please address questions to r.andrews@qut.edu.au or christopher.vandun@fim-rc.de.
